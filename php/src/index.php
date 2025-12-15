@@ -74,6 +74,7 @@ require('config.php');
                                     <tr>
                                         <td colspan="7" class="text-center text-info bg-light p-4">
                                             ไม่พบการจองในวันที่เลือก
+                                            hello 
                                         </td>
                                     </tr>
                                 </tbody>
